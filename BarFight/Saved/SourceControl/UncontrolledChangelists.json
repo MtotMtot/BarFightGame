@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Barfight Game/BarFightGame/BarFight/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Barfight Game/BarFightGame/BarFight/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/CL/381LM03PFI8AF9NED1SEV2.uasset",
+				"C:/Barfight Game/BarFightGame/BarFight/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/UN/I2U584DUNELTTVHJL1Y9Q3.uasset",
+				"C:/Barfight Game/BarFightGame/BarFight/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/OS/JTTXR10PDUS3PXW3HXGY4C.uasset",
+				"C:/Barfight Game/BarFightGame/BarFight/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/6T/R7T8CGRKA0FCZ7JYJNWC0P.uasset",
 				"C:/BarFight/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
 			]
 		}
