@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/BarFightGame/BarFight/Content/NewMap.umap",
+				"C:/BarFightGame/BarFight/Content/Levels/NewMap.umap",
+				"C:/BarFightGame/BarFight/Content/Levels/codeTestLevel.umap",
+				"C:/BarFightGame/BarFight/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/BarFight/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
 			]
 		}
