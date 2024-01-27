@@ -5,9 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/BarFightGame/BarFight/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
-				"C:/BarFightGame/BarFight/Content/Materials/M_Piss.uasset",
-				"C:/BarFightGame/BarFight/Content/FirstPerson/Blueprints/BP_PissParticle.uasset",
 				"C:/Barfight Game/BarFightGame/BarFight/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Barfight Game/BarFightGame/BarFight/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/CL/381LM03PFI8AF9NED1SEV2.uasset",
 				"C:/Barfight Game/BarFightGame/BarFight/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/UN/I2U584DUNELTTVHJL1Y9Q3.uasset",
@@ -18,6 +15,12 @@
 				"C:/Barfight Game/BarFightGame/BarFight/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset",
 				"C:/Barfight Game/BarFightGame/BarFight/Content/UI/Main.uasset",
 				"C:/Barfight Game/BarFightGame/BarFight/Content/UI/Sprite-0001.uasset",
+				"C:/Barfight Game/BarFightGame/BarFight/Content/PP_FishEye.uasset",
+				"C:/Barfight Game/BarFightGame/BarFight/Content/PP_FishEye_Inst.uasset",
+				"C:/Barfight Game/BarFightGame/BarFight/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/MX/R1GV431P5FDO08OFULRA01.uasset",
+				"C:/BarFightGame/BarFight/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/BarFightGame/BarFight/Content/Materials/M_Piss.uasset",
+				"C:/BarFightGame/BarFight/Content/FirstPerson/Blueprints/BP_PissParticle.uasset",
 				"C:/BarFight/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
 			]
 		}
