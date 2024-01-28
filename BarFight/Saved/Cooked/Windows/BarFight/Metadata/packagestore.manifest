@@ -1,16 +1,76 @@
 {
 	"Files": [
 		{
-			"Path": "BarFight/Content/Blueprints/AP_EnemAI.uasset",
-			"ChunkId": "bc759ee3ac30f6f000000001"
+			"Path": "BarFight/Content/AI/AP_EnemAI.uasset",
+			"ChunkId": "5de46746f285775100000001"
 		},
 		{
-			"Path": "BarFight/Content/Blueprints/BP_EnemyAI.uasset",
-			"ChunkId": "9895a08622338eff00000001"
+			"Path": "BarFight/Content/AI/BP_EnemyAI.uasset",
+			"ChunkId": "d9a88d205f4eb8ef00000001"
 		},
 		{
-			"Path": "BarFight/Content/Blueprints/WalkBlendSpace1D.uasset",
-			"ChunkId": "86ab8fc3a597238900000001"
+			"Path": "BarFight/Content/AI/WalkBlendSpace1D.uasset",
+			"ChunkId": "10e4fbcf6436047800000001"
+		},
+		{
+			"Path": "BarFight/Content/Audio/Alla-Turca_chosic_com_.uasset",
+			"ChunkId": "b2667cfb79b4fee900000001"
+		},
+		{
+			"Path": "BarFight/Content/Audio/Alla-Turca_chosic_com_.ubulk",
+			"ChunkId": "b2667cfb79b4fee900000002"
+		},
+		{
+			"Path": "BarFight/Content/Audio/BgMusic.uasset",
+			"ChunkId": "ddc4168c77fa9d5100000001"
+		},
+		{
+			"Path": "BarFight/Content/Audio/gulp-37759.uasset",
+			"ChunkId": "27e6999e9f047a4d00000001"
+		},
+		{
+			"Path": "BarFight/Content/Audio/gulp-37759.ubulk",
+			"ChunkId": "27e6999e9f047a4d00000002"
+		},
+		{
+			"Path": "BarFight/Content/Audio/Pissing.uasset",
+			"ChunkId": "8a95e5f6ece757de00000001"
+		},
+		{
+			"Path": "BarFight/Content/Audio/Pissing.ubulk",
+			"ChunkId": "8a95e5f6ece757de00000002"
+		},
+		{
+			"Path": "BarFight/Content/Audio/Table-Smack-1.uasset",
+			"ChunkId": "8302d9052002111900000001"
+		},
+		{
+			"Path": "BarFight/Content/Audio/Table-Smack-1.ubulk",
+			"ChunkId": "8302d9052002111900000002"
+		},
+		{
+			"Path": "BarFight/Content/Audio/Table-Smack-1_Cue.uasset",
+			"ChunkId": "1f66124f00d41b2200000001"
+		},
+		{
+			"Path": "BarFight/Content/Audio/Yipeee.uasset",
+			"ChunkId": "03094df591bbe89800000001"
+		},
+		{
+			"Path": "BarFight/Content/Audio/Yipeee.ubulk",
+			"ChunkId": "03094df591bbe89800000002"
+		},
+		{
+			"Path": "BarFight/Content/BloodTest/blood.uasset",
+			"ChunkId": "51573f88f0d65e8800000001"
+		},
+		{
+			"Path": "BarFight/Content/BloodTest/blood_Mat.uasset",
+			"ChunkId": "0f19ab64b9b2faa500000001"
+		},
+		{
+			"Path": "BarFight/Content/BloodTest/NsorBlood.uasset",
+			"ChunkId": "80217ee58f25d15700000001"
 		},
 		{
 			"Path": "BarFight/Content/CollectableSystem/CollectableBP.uasset",
@@ -19,6 +79,10 @@
 		{
 			"Path": "BarFight/Content/CollectableSystem/Collectablewidget.uasset",
 			"ChunkId": "fdb266b9b3fc73d700000001"
+		},
+		{
+			"Path": "BarFight/Content/CollectableSystem/GoldSparkles.uasset",
+			"ChunkId": "04fd9751504e9b7000000001"
 		},
 		{
 			"Path": "BarFight/Content/DrunkAnims/Drunk_Idle.uasset",
@@ -423,30 +487,6 @@
 		{
 			"Path": "BarFight/Content/FPWeapon/Textures/T_FPGun_N.ubulk",
 			"ChunkId": "04590d78bd8f1ef400000002"
-		},
-		{
-			"Path": "BarFight/Content/group_0_11107152.uasset",
-			"ChunkId": "daea143ec2dcc4a200000001"
-		},
-		{
-			"Path": "BarFight/Content/group_0_11107152.ubulk",
-			"ChunkId": "daea143ec2dcc4a200000002"
-		},
-		{
-			"Path": "BarFight/Content/group_0_1206582.uasset",
-			"ChunkId": "774e9fe8d161aacd00000001"
-		},
-		{
-			"Path": "BarFight/Content/group_0_1206582.ubulk",
-			"ChunkId": "774e9fe8d161aacd00000002"
-		},
-		{
-			"Path": "BarFight/Content/group_0_6306067.uasset",
-			"ChunkId": "a2ebcb4ebfe9d47500000001"
-		},
-		{
-			"Path": "BarFight/Content/group_0_6306067.ubulk",
-			"ChunkId": "a2ebcb4ebfe9d47500000002"
 		},
 		{
 			"Path": "BarFight/Content/LevelPrototyping/Materials/M_PrototypeGrid.uasset",
@@ -1397,14 +1437,6 @@
 			"ChunkId": "9fc77c3133a986f700000002"
 		},
 		{
-			"Path": "BarFight/Content/m3.uasset",
-			"ChunkId": "a2b188026f0f803600000001"
-		},
-		{
-			"Path": "BarFight/Content/M4.uasset",
-			"ChunkId": "c9da0fb682fafc7600000001"
-		},
-		{
 			"Path": "BarFight/Content/Maps/CodeTesting.umap",
 			"ChunkId": "64f7fba57dffc56f00000001"
 		},
@@ -1417,8 +1449,20 @@
 			"ChunkId": "4b08d1c7c3acebf700000001"
 		},
 		{
+			"Path": "BarFight/Content/Materials/m3.uasset",
+			"ChunkId": "af34e6d7164e0d7b00000001"
+		},
+		{
+			"Path": "BarFight/Content/Materials/M4.uasset",
+			"ChunkId": "d9bc75ae4089e6c000000001"
+		},
+		{
 			"Path": "BarFight/Content/Materials/M_Piss.uasset",
 			"ChunkId": "6c42b55105c703b700000001"
+		},
+		{
+			"Path": "BarFight/Content/Materials/wood_001.uasset",
+			"ChunkId": "12f8c94766d80f4600000001"
 		},
 		{
 			"Path": "BarFight/Content/Megascans/3D_Assets/Modular_Saloon_Bar_Kit_ufzueazdw/MI_Modular_Saloon_Bar_Kit_ufzueazdw_2K.uasset",
@@ -2263,34 +2307,6 @@
 		{
 			"Path": "BarFight/Content/MSPresets/MSVTTextures/WhitePlaceholder.uasset",
 			"ChunkId": "cf52698767b397b700000001"
-		},
-		{
-			"Path": "BarFight/Content/New_Piskel-1_png__1_.uasset",
-			"ChunkId": "861ab6c12f01d76d00000001"
-		},
-		{
-			"Path": "BarFight/Content/New_Piskel-1_png__1_.ubulk",
-			"ChunkId": "861ab6c12f01d76d00000002"
-		},
-		{
-			"Path": "BarFight/Content/New_Piskel-1_png__2_.uasset",
-			"ChunkId": "276ad26b42e293ce00000001"
-		},
-		{
-			"Path": "BarFight/Content/New_Piskel-1_png__2_.ubulk",
-			"ChunkId": "276ad26b42e293ce00000002"
-		},
-		{
-			"Path": "BarFight/Content/New_Piskel-1_png__3_.uasset",
-			"ChunkId": "2f8158f2aeca55c400000001"
-		},
-		{
-			"Path": "BarFight/Content/New_Piskel-1_png__3_.ubulk",
-			"ChunkId": "2f8158f2aeca55c400000002"
-		},
-		{
-			"Path": "BarFight/Content/New_Piskel-1_png__4_.uasset",
-			"ChunkId": "95f00e453e014d2800000001"
 		},
 		{
 			"Path": "BarFight/Content/Pool/Material_002.uasset",
@@ -4073,12 +4089,36 @@
 			"ChunkId": "44cb41078caf089900000002"
 		},
 		{
-			"Path": "BarFight/Content/table_small__preset_.uasset",
-			"ChunkId": "949259fc837c198f00000001"
+			"Path": "BarFight/Content/StaticMeshes/group_0_11107152.uasset",
+			"ChunkId": "97cdf65b9556077300000001"
 		},
 		{
-			"Path": "BarFight/Content/table_small__preset_.ubulk",
-			"ChunkId": "949259fc837c198f00000002"
+			"Path": "BarFight/Content/StaticMeshes/group_0_11107152.ubulk",
+			"ChunkId": "97cdf65b9556077300000002"
+		},
+		{
+			"Path": "BarFight/Content/StaticMeshes/group_0_1206582.uasset",
+			"ChunkId": "ec22a713aeeb588600000001"
+		},
+		{
+			"Path": "BarFight/Content/StaticMeshes/group_0_1206582.ubulk",
+			"ChunkId": "ec22a713aeeb588600000002"
+		},
+		{
+			"Path": "BarFight/Content/StaticMeshes/group_0_6306067.uasset",
+			"ChunkId": "5c3e4c3fad0326ff00000001"
+		},
+		{
+			"Path": "BarFight/Content/StaticMeshes/group_0_6306067.ubulk",
+			"ChunkId": "5c3e4c3fad0326ff00000002"
+		},
+		{
+			"Path": "BarFight/Content/StaticMeshes/table_small__preset_.uasset",
+			"ChunkId": "a6bf88e5b8bda73b00000001"
+		},
+		{
+			"Path": "BarFight/Content/StaticMeshes/table_small__preset_.ubulk",
+			"ChunkId": "a6bf88e5b8bda73b00000002"
 		},
 		{
 			"Path": "BarFight/Content/UI/Background.uasset",
@@ -4105,12 +4145,40 @@
 			"ChunkId": "d6733e5ee64b9fd500000001"
 		},
 		{
+			"Path": "BarFight/Content/UI/New_Piskel-1_png__1_.uasset",
+			"ChunkId": "6a10cd6ed68114b200000001"
+		},
+		{
+			"Path": "BarFight/Content/UI/New_Piskel-1_png__1_.ubulk",
+			"ChunkId": "6a10cd6ed68114b200000002"
+		},
+		{
+			"Path": "BarFight/Content/UI/New_Piskel-1_png__2_.uasset",
+			"ChunkId": "64af0001dd5c741c00000001"
+		},
+		{
+			"Path": "BarFight/Content/UI/New_Piskel-1_png__2_.ubulk",
+			"ChunkId": "64af0001dd5c741c00000002"
+		},
+		{
+			"Path": "BarFight/Content/UI/New_Piskel-1_png__3_.uasset",
+			"ChunkId": "0374189022cd088b00000001"
+		},
+		{
+			"Path": "BarFight/Content/UI/New_Piskel-1_png__3_.ubulk",
+			"ChunkId": "0374189022cd088b00000002"
+		},
+		{
+			"Path": "BarFight/Content/UI/New_Piskel-1_png__4_.uasset",
+			"ChunkId": "13113cd718a35f9a00000001"
+		},
+		{
 			"Path": "BarFight/Content/UI/Sprite-0001.uasset",
 			"ChunkId": "ca39c6f7c46d9b2000000001"
 		},
 		{
-			"Path": "BarFight/Content/wood_001.uasset",
-			"ChunkId": "41236b4cc05cb33500000001"
+			"Path": "BarFight/Content/UI/W_PauseMenu.uasset",
+			"ChunkId": "1326e72ee335370000000001"
 		},
 		{
 			"Path": "Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset",
@@ -5883,6 +5951,234 @@
 		{
 			"Path": "Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset",
 			"ChunkId": "7b967f8ff09764ce00000001"
+		},
+		{
+			"Path": "Engine/Plugins/FX/Niagara/Content/Enums/Angles/ENiagara_AngleInput.uasset",
+			"ChunkId": "aaf0dcf34da6539400000001"
+		},
+		{
+			"Path": "Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_AttributeSamplingApplyOutput.uasset",
+			"ChunkId": "6942f8168c428dc300000001"
+		},
+		{
+			"Path": "Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_ColorInitializationMode.uasset",
+			"ChunkId": "09cf4e8bdb239e3000000001"
+		},
+		{
+			"Path": "Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_EmitterStateOptions.uasset",
+			"ChunkId": "9a8c617db248826700000001"
+		},
+		{
+			"Path": "Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_InfiniteLoopDuration.uasset",
+			"ChunkId": "62462e99cdf9f9ae00000001"
+		},
+		{
+			"Path": "Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_LifetimeMode.uasset",
+			"ChunkId": "781a6281aea018c600000001"
+		},
+		{
+			"Path": "Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_MassInitializationMode.uasset",
+			"ChunkId": "e77a3577eb6f38a800000001"
+		},
+		{
+			"Path": "Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_PositionInitializationMode.uasset",
+			"ChunkId": "39fa4650a5ed1a1d00000001"
+		},
+		{
+			"Path": "Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_SizeScaleMode.uasset",
+			"ChunkId": "d3ae0e3c52ee83dc00000001"
+		},
+		{
+			"Path": "Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_SpriteRotationMode.uasset",
+			"ChunkId": "9cf307b7767358de00000001"
+		},
+		{
+			"Path": "Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_UVFlippingMode.uasset",
+			"ChunkId": "e99da99cbd83642f00000001"
+		},
+		{
+			"Path": "Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraAerodynamicDragPivotMode.uasset",
+			"ChunkId": "26c033bb58ba020f00000001"
+		},
+		{
+			"Path": "Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraChannelCorrelation.uasset",
+			"ChunkId": "32a17abc290d048e00000001"
+		},
+		{
+			"Path": "Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraCurlNoiseQuality.uasset",
+			"ChunkId": "7f0cd591e5f21c8c00000001"
+		},
+		{
+			"Path": "Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraDragCoefficientShapeMode.uasset",
+			"ChunkId": "544b2a184903e33600000001"
+		},
+		{
+			"Path": "Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterLifeCycleMode.uasset",
+			"ChunkId": "236f8301b0415ddb00000001"
+		},
+		{
+			"Path": "Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterScalabilityMode_Limited.uasset",
+			"ChunkId": "3c616ebf01c9baaa00000001"
+		},
+		{
+			"Path": "Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraExecutionStateManagement.uasset",
+			"ChunkId": "800e0011728b391200000001"
+		},
+		{
+			"Path": "Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraExpansionMode.uasset",
+			"ChunkId": "8fddd6387a2a9c2200000001"
+		},
+		{
+			"Path": "Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraInactiveMode.uasset",
+			"ChunkId": "c59e08e7b318df6f00000001"
+		},
+		{
+			"Path": "Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessEvaluation.uasset",
+			"ChunkId": "b9dd62c115643d5400000001"
+		},
+		{
+			"Path": "Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uasset",
+			"ChunkId": "e4a8bb77df9772ba00000001"
+		},
+		{
+			"Path": "Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraScaleColorMode.uasset",
+			"ChunkId": "f64937e84d14419400000001"
+		},
+		{
+			"Path": "Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraShapeTorusMode.uasset",
+			"ChunkId": "a1d0e5eb623378d200000001"
+		},
+		{
+			"Path": "Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraSphereDistributionMode.uasset",
+			"ChunkId": "a010c168a4039db900000001"
+		},
+		{
+			"Path": "Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraSystemInactiveMode.uasset",
+			"ChunkId": "12214b5091d73a2100000001"
+		},
+		{
+			"Path": "Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraTorusDistributionMode.uasset",
+			"ChunkId": "db927cfb04c3181c00000001"
+		},
+		{
+			"Path": "Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraVector4_Channels.uasset",
+			"ChunkId": "44c9c433523b0c1c00000001"
+		},
+		{
+			"Path": "Engine/Plugins/FX/Niagara/Content/Enums/Location/ENiagara_BoxPlaneMode.uasset",
+			"ChunkId": "95879af688beefca00000001"
+		},
+		{
+			"Path": "Engine/Plugins/FX/Niagara/Content/Enums/Location/ENiagara_ConeMode.uasset",
+			"ChunkId": "1ec669cf9ab32e9200000001"
+		},
+		{
+			"Path": "Engine/Plugins/FX/Niagara/Content/Enums/Location/ENiagara_CylinderMode.uasset",
+			"ChunkId": "6da8969825749cd800000001"
+		},
+		{
+			"Path": "Engine/Plugins/FX/Niagara/Content/Enums/Location/ENiagara_LocationShapes.uasset",
+			"ChunkId": "edf9e6f5e7f91cb500000001"
+		},
+		{
+			"Path": "Engine/Plugins/FX/Niagara/Content/Enums/Location/ENiagaraRingDiscMode.uasset",
+			"ChunkId": "4754ff1a65a0526e00000001"
+		},
+		{
+			"Path": "Engine/Plugins/FX/Niagara/Content/Enums/Ribbons/ENiagara_UnsetDirectSet.uasset",
+			"ChunkId": "4e5e9ee9165beaff00000001"
+		},
+		{
+			"Path": "Engine/Plugins/FX/Niagara/Content/Enums/Ribbons/ENiagara_UnsetDirectSetRandom.uasset",
+			"ChunkId": "353f1e6f31b47acd00000001"
+		},
+		{
+			"Path": "Engine/Plugins/FX/Niagara/Content/Enums/SpriteRenderer/ENiagara_ScaleSpriteSize.uasset",
+			"ChunkId": "d544b77d346c2dc300000001"
+		},
+		{
+			"Path": "Engine/Plugins/FX/Niagara/Content/Enums/Transforms/ENiagara_OffsetMode.uasset",
+			"ChunkId": "5ca3bfb86233f5dd00000001"
+		},
+		{
+			"Path": "Engine/Plugins/FX/Niagara/Content/Enums/Transforms/ENiagara_RotationMode.uasset",
+			"ChunkId": "3b61f49353d5198c00000001"
+		},
+		{
+			"Path": "Engine/Plugins/FX/Niagara/Content/Enums/Transforms/ENiagara_ScaleMode.uasset",
+			"ChunkId": "277e8cde468d29f200000001"
+		},
+		{
+			"Path": "Engine/Plugins/FX/Niagara/Content/Enums/Transforms/ENiagara_TransformOrder.uasset",
+			"ChunkId": "7a00aa76fcf1cec000000001"
+		},
+		{
+			"Path": "Engine/Plugins/FX/Niagara/Content/Enums/Transforms/ENiagara_TransformType.uasset",
+			"ChunkId": "e070ebd8dbab094500000001"
+		},
+		{
+			"Path": "Engine/Plugins/FX/Niagara/Content/Enums/Utility/ENiagara_VelocityMode.uasset",
+			"ChunkId": "836c921bc569333800000001"
+		},
+		{
+			"Path": "Engine/Plugins/FX/Niagara/Content/Enums/Wind/ENiagaraWindCombingMode.uasset",
+			"ChunkId": "0a01553976da367200000001"
+		},
+		{
+			"Path": "Engine/Plugins/FX/Niagara/Content/Enums/Wind/ENiagaraWindFrictionDistanceMode.uasset",
+			"ChunkId": "c68631e009a55c1000000001"
+		},
+		{
+			"Path": "Engine/Plugins/FX/Niagara/Content/Enums/Wind/ENiagaraWindFrictionMode.uasset",
+			"ChunkId": "4bca6632d49743dd00000001"
+		},
+		{
+			"Path": "Engine/Plugins/FX/Niagara/Content/Enums/Wind/ENiagaraWindGroundMaskMode.uasset",
+			"ChunkId": "5b669ef0c5f98f2800000001"
+		},
+		{
+			"Path": "Engine/Plugins/FX/Niagara/Content/Enums/Wind/ENiagaraWindOffsetMode.uasset",
+			"ChunkId": "b3c80243ff45450000000001"
+		},
+		{
+			"Path": "Engine/Plugins/FX/Niagara/Content/Enums/Wind/ENiagaraWindTurbulenceContributionMode.uasset",
+			"ChunkId": "ab623204312d324700000001"
+		},
+		{
+			"Path": "Engine/Plugins/FX/Niagara/Content/Enums/Wind/ENiagaraWindTurbulenceFrequencyMode.uasset",
+			"ChunkId": "7190b2bae1260bc600000001"
+		},
+		{
+			"Path": "Engine/Plugins/FX/Niagara/Content/Enums/Wind/ENiagaraWindTurbulenceMode.uasset",
+			"ChunkId": "b42e2403f3f35f1f00000001"
+		},
+		{
+			"Path": "Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Particle_InfiniteLife.uasset",
+			"ChunkId": "01ef8b8437d851f900000001"
+		},
+		{
+			"Path": "Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Solver_LimitAccel.uasset",
+			"ChunkId": "5d9f9dba791360f700000001"
+		},
+		{
+			"Path": "Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Solver_LimitSpeed.uasset",
+			"ChunkId": "6d0e17e6637a2b0600000001"
+		},
+		{
+			"Path": "Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Solver_RotationalSolve.uasset",
+			"ChunkId": "57b7a44e84f90b8100000001"
+		},
+		{
+			"Path": "Engine/Plugins/FX/Niagara/Content/VectorFields/Assets/TilingCurl16.uasset",
+			"ChunkId": "110a6ebac442f41c00000001"
+		},
+		{
+			"Path": "Engine/Plugins/FX/Niagara/Content/VectorFields/Assets/TilingCurl32.uasset",
+			"ChunkId": "a835619b73eeaa1600000001"
+		},
+		{
+			"Path": "Engine/Plugins/FX/Niagara/Content/VectorFields/Assets/TilingCurl64.uasset",
+			"ChunkId": "7bf38c99711fc2ab00000001"
 		},
 		{
 			"Path": "Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultAssetsPipeline.uasset",
@@ -8196,22 +8492,100 @@
 			"Name": "/Game/__ExternalObjects__/Maps/Pub/D/FI/7GT2W8AD0GI7QBF6NS9RAC"
 		},
 		{
-			"Name": "/Game/Blueprints/AP_EnemAI",
+			"Name": "/Game/AI/AP_EnemAI",
 			"ExportBundleChunkIds": [
-				"bc759ee3ac30f6f000000001"
+				"5de46746f285775100000001"
 			]
 		},
 		{
-			"Name": "/Game/Blueprints/BP_EnemyAI",
+			"Name": "/Game/AI/BP_EnemyAI",
 			"ExportBundleChunkIds": [
-				"9895a08622338eff00000001"
+				"d9a88d205f4eb8ef00000001"
 			]
 		},
 		{
-			"Name": "/Game/Blueprints/WalkBlendSpace1D",
+			"Name": "/Game/AI/WalkBlendSpace1D",
 			"ExportBundleChunkIds": [
-				"86ab8fc3a597238900000001"
+				"10e4fbcf6436047800000001"
 			]
+		},
+		{
+			"Name": "/Game/Audio/Alla-Turca_chosic_com_",
+			"ExportBundleChunkIds": [
+				"b2667cfb79b4fee900000001"
+			],
+			"BulkDataChunkIds": [
+				"b2667cfb79b4fee900000002"
+			]
+		},
+		{
+			"Name": "/Game/Audio/BgMusic",
+			"ExportBundleChunkIds": [
+				"ddc4168c77fa9d5100000001"
+			]
+		},
+		{
+			"Name": "/Game/Audio/gulp-37759",
+			"ExportBundleChunkIds": [
+				"27e6999e9f047a4d00000001"
+			],
+			"BulkDataChunkIds": [
+				"27e6999e9f047a4d00000002"
+			]
+		},
+		{
+			"Name": "/Game/Audio/Pissing",
+			"ExportBundleChunkIds": [
+				"8a95e5f6ece757de00000001"
+			],
+			"BulkDataChunkIds": [
+				"8a95e5f6ece757de00000002"
+			]
+		},
+		{
+			"Name": "/Game/Audio/Table-Smack-1",
+			"ExportBundleChunkIds": [
+				"8302d9052002111900000001"
+			],
+			"BulkDataChunkIds": [
+				"8302d9052002111900000002"
+			]
+		},
+		{
+			"Name": "/Game/Audio/Table-Smack-1_Cue",
+			"ExportBundleChunkIds": [
+				"1f66124f00d41b2200000001"
+			]
+		},
+		{
+			"Name": "/Game/Audio/Yipeee",
+			"ExportBundleChunkIds": [
+				"03094df591bbe89800000001"
+			],
+			"BulkDataChunkIds": [
+				"03094df591bbe89800000002"
+			]
+		},
+		{
+			"Name": "/Game/BloodTest/blood",
+			"ExportBundleChunkIds": [
+				"51573f88f0d65e8800000001"
+			]
+		},
+		{
+			"Name": "/Game/BloodTest/blood_Mat",
+			"ExportBundleChunkIds": [
+				"0f19ab64b9b2faa500000001"
+			]
+		},
+		{
+			"Name": "/Game/BloodTest/NsorBlood",
+			"ExportBundleChunkIds": [
+				"80217ee58f25d15700000001"
+			]
+		},
+		{
+			"Name": "/Game/Blueprints/BP_EnemyAI"
 		},
 		{
 			"Name": "/Game/CollectableSystem/CollectableBP",
@@ -8223,6 +8597,12 @@
 			"Name": "/Game/CollectableSystem/Collectablewidget",
 			"ExportBundleChunkIds": [
 				"fdb266b9b3fc73d700000001"
+			]
+		},
+		{
+			"Name": "/Game/CollectableSystem/GoldSparkles",
+			"ExportBundleChunkIds": [
+				"04fd9751504e9b7000000001"
 			]
 		},
 		{
@@ -8781,31 +9161,13 @@
 			]
 		},
 		{
-			"Name": "/Game/group_0_1206582",
-			"ExportBundleChunkIds": [
-				"774e9fe8d161aacd00000001"
-			],
-			"BulkDataChunkIds": [
-				"774e9fe8d161aacd00000002"
-			]
+			"Name": "/Game/group_0_1206582"
 		},
 		{
-			"Name": "/Game/group_0_6306067",
-			"ExportBundleChunkIds": [
-				"a2ebcb4ebfe9d47500000001"
-			],
-			"BulkDataChunkIds": [
-				"a2ebcb4ebfe9d47500000002"
-			]
+			"Name": "/Game/group_0_6306067"
 		},
 		{
-			"Name": "/Game/group_0_11107152",
-			"ExportBundleChunkIds": [
-				"daea143ec2dcc4a200000001"
-			],
-			"BulkDataChunkIds": [
-				"daea143ec2dcc4a200000002"
-			]
+			"Name": "/Game/group_0_11107152"
 		},
 		{
 			"Name": "/Game/LevelPrototyping/Materials/M_PrototypeGrid",
@@ -9888,16 +10250,10 @@
 			]
 		},
 		{
-			"Name": "/Game/m3",
-			"ExportBundleChunkIds": [
-				"a2b188026f0f803600000001"
-			]
+			"Name": "/Game/m3"
 		},
 		{
-			"Name": "/Game/M4",
-			"ExportBundleChunkIds": [
-				"c9da0fb682fafc7600000001"
-			]
+			"Name": "/Game/M4"
 		},
 		{
 			"Name": "/Game/Maps/CodeTesting",
@@ -9918,9 +10274,27 @@
 			]
 		},
 		{
+			"Name": "/Game/Materials/m3",
+			"ExportBundleChunkIds": [
+				"af34e6d7164e0d7b00000001"
+			]
+		},
+		{
+			"Name": "/Game/Materials/M4",
+			"ExportBundleChunkIds": [
+				"d9bc75ae4089e6c000000001"
+			]
+		},
+		{
 			"Name": "/Game/Materials/M_Piss",
 			"ExportBundleChunkIds": [
 				"6c42b55105c703b700000001"
+			]
+		},
+		{
+			"Name": "/Game/Materials/wood_001",
+			"ExportBundleChunkIds": [
+				"12f8c94766d80f4600000001"
 			]
 		},
 		{
@@ -11028,39 +11402,6 @@
 			"Name": "/Game/MSPresets/MSVTTextures/WhitePlaceholder",
 			"ExportBundleChunkIds": [
 				"cf52698767b397b700000001"
-			]
-		},
-		{
-			"Name": "/Game/New_Piskel-1_png__1_",
-			"ExportBundleChunkIds": [
-				"861ab6c12f01d76d00000001"
-			],
-			"BulkDataChunkIds": [
-				"861ab6c12f01d76d00000002"
-			]
-		},
-		{
-			"Name": "/Game/New_Piskel-1_png__2_",
-			"ExportBundleChunkIds": [
-				"276ad26b42e293ce00000001"
-			],
-			"BulkDataChunkIds": [
-				"276ad26b42e293ce00000002"
-			]
-		},
-		{
-			"Name": "/Game/New_Piskel-1_png__3_",
-			"ExportBundleChunkIds": [
-				"2f8158f2aeca55c400000001"
-			],
-			"BulkDataChunkIds": [
-				"2f8158f2aeca55c400000002"
-			]
-		},
-		{
-			"Name": "/Game/New_Piskel-1_png__4_",
-			"ExportBundleChunkIds": [
-				"95f00e453e014d2800000001"
 			]
 		},
 		{
@@ -13227,12 +13568,39 @@
 			]
 		},
 		{
-			"Name": "/Game/table_small__preset_",
+			"Name": "/Game/StaticMeshes/group_0_1206582",
 			"ExportBundleChunkIds": [
-				"949259fc837c198f00000001"
+				"ec22a713aeeb588600000001"
 			],
 			"BulkDataChunkIds": [
-				"949259fc837c198f00000002"
+				"ec22a713aeeb588600000002"
+			]
+		},
+		{
+			"Name": "/Game/StaticMeshes/group_0_6306067",
+			"ExportBundleChunkIds": [
+				"5c3e4c3fad0326ff00000001"
+			],
+			"BulkDataChunkIds": [
+				"5c3e4c3fad0326ff00000002"
+			]
+		},
+		{
+			"Name": "/Game/StaticMeshes/group_0_11107152",
+			"ExportBundleChunkIds": [
+				"97cdf65b9556077300000001"
+			],
+			"BulkDataChunkIds": [
+				"97cdf65b9556077300000002"
+			]
+		},
+		{
+			"Name": "/Game/StaticMeshes/table_small__preset_",
+			"ExportBundleChunkIds": [
+				"a6bf88e5b8bda73b00000001"
+			],
+			"BulkDataChunkIds": [
+				"a6bf88e5b8bda73b00000002"
 			]
 		},
 		{
@@ -13272,16 +13640,52 @@
 			]
 		},
 		{
+			"Name": "/Game/UI/New_Piskel-1_png__1_",
+			"ExportBundleChunkIds": [
+				"6a10cd6ed68114b200000001"
+			],
+			"BulkDataChunkIds": [
+				"6a10cd6ed68114b200000002"
+			]
+		},
+		{
+			"Name": "/Game/UI/New_Piskel-1_png__2_",
+			"ExportBundleChunkIds": [
+				"64af0001dd5c741c00000001"
+			],
+			"BulkDataChunkIds": [
+				"64af0001dd5c741c00000002"
+			]
+		},
+		{
+			"Name": "/Game/UI/New_Piskel-1_png__3_",
+			"ExportBundleChunkIds": [
+				"0374189022cd088b00000001"
+			],
+			"BulkDataChunkIds": [
+				"0374189022cd088b00000002"
+			]
+		},
+		{
+			"Name": "/Game/UI/New_Piskel-1_png__4_",
+			"ExportBundleChunkIds": [
+				"13113cd718a35f9a00000001"
+			]
+		},
+		{
 			"Name": "/Game/UI/Sprite-0001",
 			"ExportBundleChunkIds": [
 				"ca39c6f7c46d9b2000000001"
 			]
 		},
 		{
-			"Name": "/Game/wood_001",
+			"Name": "/Game/UI/W_PauseMenu",
 			"ExportBundleChunkIds": [
-				"41236b4cc05cb33500000001"
+				"1326e72ee335370000000001"
 			]
+		},
+		{
+			"Name": "/Game/wood_001"
 		},
 		{
 			"Name": "/Interchange/Pipelines/DefaultAssetsPipeline",
@@ -13329,6 +13733,519 @@
 			]
 		},
 		{
+			"Name": "/Niagara/DynamicInputs/TypeConversions/Vector2DFromFloat"
+		},
+		{
+			"Name": "/Niagara/DynamicInputs/UniformRange/V2/RandomRangeFloat"
+		},
+		{
+			"Name": "/Niagara/DynamicInputs/UniformRange/V2/RandomRangeVector"
+		},
+		{
+			"Name": "/Niagara/DynamicInputs/ValueFromCurve/FloatFromCurve"
+		},
+		{
+			"Name": "/Niagara/Enums/Angles/ENiagara_AngleInput",
+			"ExportBundleChunkIds": [
+				"aaf0dcf34da6539400000001"
+			]
+		},
+		{
+			"Name": "/Niagara/Enums/ENiagara_AttributeSamplingApplyOutput",
+			"ExportBundleChunkIds": [
+				"6942f8168c428dc300000001"
+			]
+		},
+		{
+			"Name": "/Niagara/Enums/ENiagara_ColorInitializationMode",
+			"ExportBundleChunkIds": [
+				"09cf4e8bdb239e3000000001"
+			]
+		},
+		{
+			"Name": "/Niagara/Enums/ENiagara_EmitterStateOptions",
+			"ExportBundleChunkIds": [
+				"9a8c617db248826700000001"
+			]
+		},
+		{
+			"Name": "/Niagara/Enums/ENiagara_InfiniteLoopDuration",
+			"ExportBundleChunkIds": [
+				"62462e99cdf9f9ae00000001"
+			]
+		},
+		{
+			"Name": "/Niagara/Enums/ENiagara_LifetimeMode",
+			"ExportBundleChunkIds": [
+				"781a6281aea018c600000001"
+			]
+		},
+		{
+			"Name": "/Niagara/Enums/ENiagara_MassInitializationMode",
+			"ExportBundleChunkIds": [
+				"e77a3577eb6f38a800000001"
+			]
+		},
+		{
+			"Name": "/Niagara/Enums/ENiagara_PositionInitializationMode",
+			"ExportBundleChunkIds": [
+				"39fa4650a5ed1a1d00000001"
+			]
+		},
+		{
+			"Name": "/Niagara/Enums/ENiagara_SizeScaleMode",
+			"ExportBundleChunkIds": [
+				"d3ae0e3c52ee83dc00000001"
+			]
+		},
+		{
+			"Name": "/Niagara/Enums/ENiagara_SpriteRotationMode",
+			"ExportBundleChunkIds": [
+				"9cf307b7767358de00000001"
+			]
+		},
+		{
+			"Name": "/Niagara/Enums/ENiagara_UVFlippingMode",
+			"ExportBundleChunkIds": [
+				"e99da99cbd83642f00000001"
+			]
+		},
+		{
+			"Name": "/Niagara/Enums/ENiagaraAerodynamicDragPivotMode",
+			"ExportBundleChunkIds": [
+				"26c033bb58ba020f00000001"
+			]
+		},
+		{
+			"Name": "/Niagara/Enums/ENiagaraChannelCorrelation",
+			"ExportBundleChunkIds": [
+				"32a17abc290d048e00000001"
+			]
+		},
+		{
+			"Name": "/Niagara/Enums/ENiagaraCurlNoiseQuality",
+			"ExportBundleChunkIds": [
+				"7f0cd591e5f21c8c00000001"
+			]
+		},
+		{
+			"Name": "/Niagara/Enums/ENiagaraDragCoefficientShapeMode",
+			"ExportBundleChunkIds": [
+				"544b2a184903e33600000001"
+			]
+		},
+		{
+			"Name": "/Niagara/Enums/ENiagaraEmitterLifeCycleMode",
+			"ExportBundleChunkIds": [
+				"236f8301b0415ddb00000001"
+			]
+		},
+		{
+			"Name": "/Niagara/Enums/ENiagaraEmitterScalabilityMode_Limited",
+			"ExportBundleChunkIds": [
+				"3c616ebf01c9baaa00000001"
+			]
+		},
+		{
+			"Name": "/Niagara/Enums/ENiagaraExecutionStateManagement",
+			"ExportBundleChunkIds": [
+				"800e0011728b391200000001"
+			]
+		},
+		{
+			"Name": "/Niagara/Enums/ENiagaraExpansionMode",
+			"ExportBundleChunkIds": [
+				"8fddd6387a2a9c2200000001"
+			]
+		},
+		{
+			"Name": "/Niagara/Enums/ENiagaraInactiveMode",
+			"ExportBundleChunkIds": [
+				"c59e08e7b318df6f00000001"
+			]
+		},
+		{
+			"Name": "/Niagara/Enums/ENiagaraRandomnessEvaluation",
+			"ExportBundleChunkIds": [
+				"b9dd62c115643d5400000001"
+			]
+		},
+		{
+			"Name": "/Niagara/Enums/ENiagaraRandomnessMode",
+			"ExportBundleChunkIds": [
+				"e4a8bb77df9772ba00000001"
+			]
+		},
+		{
+			"Name": "/Niagara/Enums/ENiagaraScaleColorMode",
+			"ExportBundleChunkIds": [
+				"f64937e84d14419400000001"
+			]
+		},
+		{
+			"Name": "/Niagara/Enums/ENiagaraShapeTorusMode",
+			"ExportBundleChunkIds": [
+				"a1d0e5eb623378d200000001"
+			]
+		},
+		{
+			"Name": "/Niagara/Enums/ENiagaraSphereDistributionMode",
+			"ExportBundleChunkIds": [
+				"a010c168a4039db900000001"
+			]
+		},
+		{
+			"Name": "/Niagara/Enums/ENiagaraSystemInactiveMode",
+			"ExportBundleChunkIds": [
+				"12214b5091d73a2100000001"
+			]
+		},
+		{
+			"Name": "/Niagara/Enums/ENiagaraTorusDistributionMode",
+			"ExportBundleChunkIds": [
+				"db927cfb04c3181c00000001"
+			]
+		},
+		{
+			"Name": "/Niagara/Enums/ENiagaraVector4_Channels",
+			"ExportBundleChunkIds": [
+				"44c9c433523b0c1c00000001"
+			]
+		},
+		{
+			"Name": "/Niagara/Enums/Location/ENiagara_BoxPlaneMode",
+			"ExportBundleChunkIds": [
+				"95879af688beefca00000001"
+			]
+		},
+		{
+			"Name": "/Niagara/Enums/Location/ENiagara_ConeMode",
+			"ExportBundleChunkIds": [
+				"1ec669cf9ab32e9200000001"
+			]
+		},
+		{
+			"Name": "/Niagara/Enums/Location/ENiagara_CylinderMode",
+			"ExportBundleChunkIds": [
+				"6da8969825749cd800000001"
+			]
+		},
+		{
+			"Name": "/Niagara/Enums/Location/ENiagara_LocationShapes",
+			"ExportBundleChunkIds": [
+				"edf9e6f5e7f91cb500000001"
+			]
+		},
+		{
+			"Name": "/Niagara/Enums/Location/ENiagaraRingDiscMode",
+			"ExportBundleChunkIds": [
+				"4754ff1a65a0526e00000001"
+			]
+		},
+		{
+			"Name": "/Niagara/Enums/Ribbons/ENiagara_UnsetDirectSet",
+			"ExportBundleChunkIds": [
+				"4e5e9ee9165beaff00000001"
+			]
+		},
+		{
+			"Name": "/Niagara/Enums/Ribbons/ENiagara_UnsetDirectSetRandom",
+			"ExportBundleChunkIds": [
+				"353f1e6f31b47acd00000001"
+			]
+		},
+		{
+			"Name": "/Niagara/Enums/SpriteRenderer/ENiagara_ScaleSpriteSize",
+			"ExportBundleChunkIds": [
+				"d544b77d346c2dc300000001"
+			]
+		},
+		{
+			"Name": "/Niagara/Enums/Transforms/ENiagara_OffsetMode",
+			"ExportBundleChunkIds": [
+				"5ca3bfb86233f5dd00000001"
+			]
+		},
+		{
+			"Name": "/Niagara/Enums/Transforms/ENiagara_RotationMode",
+			"ExportBundleChunkIds": [
+				"3b61f49353d5198c00000001"
+			]
+		},
+		{
+			"Name": "/Niagara/Enums/Transforms/ENiagara_ScaleMode",
+			"ExportBundleChunkIds": [
+				"277e8cde468d29f200000001"
+			]
+		},
+		{
+			"Name": "/Niagara/Enums/Transforms/ENiagara_TransformOrder",
+			"ExportBundleChunkIds": [
+				"7a00aa76fcf1cec000000001"
+			]
+		},
+		{
+			"Name": "/Niagara/Enums/Transforms/ENiagara_TransformType",
+			"ExportBundleChunkIds": [
+				"e070ebd8dbab094500000001"
+			]
+		},
+		{
+			"Name": "/Niagara/Enums/Utility/ENiagara_VelocityMode",
+			"ExportBundleChunkIds": [
+				"836c921bc569333800000001"
+			]
+		},
+		{
+			"Name": "/Niagara/Enums/Wind/ENiagaraWindCombingMode",
+			"ExportBundleChunkIds": [
+				"0a01553976da367200000001"
+			]
+		},
+		{
+			"Name": "/Niagara/Enums/Wind/ENiagaraWindFrictionDistanceMode",
+			"ExportBundleChunkIds": [
+				"c68631e009a55c1000000001"
+			]
+		},
+		{
+			"Name": "/Niagara/Enums/Wind/ENiagaraWindFrictionMode",
+			"ExportBundleChunkIds": [
+				"4bca6632d49743dd00000001"
+			]
+		},
+		{
+			"Name": "/Niagara/Enums/Wind/ENiagaraWindGroundMaskMode",
+			"ExportBundleChunkIds": [
+				"5b669ef0c5f98f2800000001"
+			]
+		},
+		{
+			"Name": "/Niagara/Enums/Wind/ENiagaraWindOffsetMode",
+			"ExportBundleChunkIds": [
+				"b3c80243ff45450000000001"
+			]
+		},
+		{
+			"Name": "/Niagara/Enums/Wind/ENiagaraWindTurbulenceContributionMode",
+			"ExportBundleChunkIds": [
+				"ab623204312d324700000001"
+			]
+		},
+		{
+			"Name": "/Niagara/Enums/Wind/ENiagaraWindTurbulenceFrequencyMode",
+			"ExportBundleChunkIds": [
+				"7190b2bae1260bc600000001"
+			]
+		},
+		{
+			"Name": "/Niagara/Enums/Wind/ENiagaraWindTurbulenceMode",
+			"ExportBundleChunkIds": [
+				"b42e2403f3f35f1f00000001"
+			]
+		},
+		{
+			"Name": "/Niagara/Functions/ChannelMasks/SelectV4Channel"
+		},
+		{
+			"Name": "/Niagara/Functions/DirectionAndLength"
+		},
+		{
+			"Name": "/Niagara/Functions/DirectionAndLengthSafe"
+		},
+		{
+			"Name": "/Niagara/Functions/Drag/DragVelocity"
+		},
+		{
+			"Name": "/Niagara/Functions/Emitter/EmitterChangeState"
+		},
+		{
+			"Name": "/Niagara/Functions/GetRandomInfo"
+		},
+		{
+			"Name": "/Niagara/Functions/IsolateLongestVectorComponent"
+		},
+		{
+			"Name": "/Niagara/Functions/LinearColor/HueShiftLinearColor"
+		},
+		{
+			"Name": "/Niagara/Functions/Localspace/PositionToVector"
+		},
+		{
+			"Name": "/Niagara/Functions/Localspace/SimulationPosition"
+		},
+		{
+			"Name": "/Niagara/Functions/Localspace/TransformBase"
+		},
+		{
+			"Name": "/Niagara/Functions/Localspace/TransformPosition"
+		},
+		{
+			"Name": "/Niagara/Functions/Localspace/TransformVector"
+		},
+		{
+			"Name": "/Niagara/Functions/Math/CalculateRandomPointInConeSphereIntersection"
+		},
+		{
+			"Name": "/Niagara/Functions/Math/CentimeterMeterConversion"
+		},
+		{
+			"Name": "/Niagara/Functions/Math/SaturateFloat"
+		},
+		{
+			"Name": "/Niagara/Functions/NormalizedExecutionIndex"
+		},
+		{
+			"Name": "/Niagara/Functions/NormalizeDistanceRange"
+		},
+		{
+			"Name": "/Niagara/Functions/ParametricTorus"
+		},
+		{
+			"Name": "/Niagara/Functions/ParametricTorusKnot"
+		},
+		{
+			"Name": "/Niagara/Functions/PolarToCartesianCoordinates"
+		},
+		{
+			"Name": "/Niagara/Functions/RandomPointInBox"
+		},
+		{
+			"Name": "/Niagara/Functions/RandomRangeFloat"
+		},
+		{
+			"Name": "/Niagara/Functions/Rotation/AngleUnitConverter"
+		},
+		{
+			"Name": "/Niagara/Functions/Rotation/AxisAngleToQuaternion"
+		},
+		{
+			"Name": "/Niagara/Functions/Rotation/FindQuatBetween"
+		},
+		{
+			"Name": "/Niagara/Functions/Rotation/InvertQuaternion"
+		},
+		{
+			"Name": "/Niagara/Functions/Rotation/MakeQuaternionFrom3BasisVectors"
+		},
+		{
+			"Name": "/Niagara/Functions/Rotation/MatrixToQuaternion"
+		},
+		{
+			"Name": "/Niagara/Functions/Rotation/MultiplyQuaternion"
+		},
+		{
+			"Name": "/Niagara/Functions/Rotation/MultiplyVectorWithQuaternion"
+		},
+		{
+			"Name": "/Niagara/Functions/Rotation/RotateVector2D"
+		},
+		{
+			"Name": "/Niagara/Functions/Rotation/TransformStack/TransformStack_Rotation"
+		},
+		{
+			"Name": "/Niagara/Functions/Rotation/XYZRotationToQuaternion"
+		},
+		{
+			"Name": "/Niagara/Functions/SphericalToCartesianCoordinates"
+		},
+		{
+			"Name": "/Niagara/Functions/System/SystemChangeState"
+		},
+		{
+			"Name": "/Niagara/Functions/V2/CalculateRandomBool"
+		},
+		{
+			"Name": "/Niagara/Functions/V2/CalculateRandomRange"
+		},
+		{
+			"Name": "/Niagara/Functions/V2/CalculateRandomRangeFloat"
+		},
+		{
+			"Name": "/Niagara/Functions/V2/CalculateRandomRangeInteger"
+		},
+		{
+			"Name": "/Niagara/Functions/V2/CalculateRandomUnitVector"
+		},
+		{
+			"Name": "/Niagara/Functions/V2/DistanceBasedFalloff"
+		},
+		{
+			"Name": "/Niagara/Functions/V2/RemapRange"
+		},
+		{
+			"Name": "/Niagara/Icons/Modules/T_Icon_Particle_InfiniteLife",
+			"ExportBundleChunkIds": [
+				"01ef8b8437d851f900000001"
+			]
+		},
+		{
+			"Name": "/Niagara/Icons/Modules/T_Icon_Solver_LimitAccel",
+			"ExportBundleChunkIds": [
+				"5d9f9dba791360f700000001"
+			]
+		},
+		{
+			"Name": "/Niagara/Icons/Modules/T_Icon_Solver_LimitSpeed",
+			"ExportBundleChunkIds": [
+				"6d0e17e6637a2b0600000001"
+			]
+		},
+		{
+			"Name": "/Niagara/Icons/Modules/T_Icon_Solver_RotationalSolve",
+			"ExportBundleChunkIds": [
+				"57b7a44e84f90b8100000001"
+			]
+		},
+		{
+			"Name": "/Niagara/Modules/Emitter/EmitterState"
+		},
+		{
+			"Name": "/Niagara/Modules/Emitter/SpawnBurst_Instantaneous"
+		},
+		{
+			"Name": "/Niagara/Modules/Emitter/SpawnRate"
+		},
+		{
+			"Name": "/Niagara/Modules/Solvers/ApplyRotationVector"
+		},
+		{
+			"Name": "/Niagara/Modules/Solvers/SolveForcesAndVelocity"
+		},
+		{
+			"Name": "/Niagara/Modules/Spawn/Initialization/V2/InitializeParticle"
+		},
+		{
+			"Name": "/Niagara/Modules/Spawn/Location/V2/ShapeLocation"
+		},
+		{
+			"Name": "/Niagara/Modules/Spawn/Velocity/AddVelocity"
+		},
+		{
+			"Name": "/Niagara/Modules/System/SystemState"
+		},
+		{
+			"Name": "/Niagara/Modules/Update/Color/ScaleColor"
+		},
+		{
+			"Name": "/Niagara/Modules/Update/Forces/AerodynamicDrag"
+		},
+		{
+			"Name": "/Niagara/Modules/Update/Forces/Drag"
+		},
+		{
+			"Name": "/Niagara/Modules/Update/Forces/GravityForce"
+		},
+		{
+			"Name": "/Niagara/Modules/Update/Forces/WindForce"
+		},
+		{
+			"Name": "/Niagara/Modules/Update/Lifetime/ParticleState"
+		},
+		{
+			"Name": "/Niagara/Modules/Update/Size/ScaleSpriteSize"
+		},
+		{
 			"Name": "/Niagara/ParameterDefinitions/CoreParameters"
 		},
 		{
@@ -13345,6 +14262,24 @@
 		},
 		{
 			"Name": "/Niagara/ParameterDefinitions/SpriteRenderer"
+		},
+		{
+			"Name": "/Niagara/VectorFields/Assets/TilingCurl16",
+			"ExportBundleChunkIds": [
+				"110a6ebac442f41c00000001"
+			]
+		},
+		{
+			"Name": "/Niagara/VectorFields/Assets/TilingCurl32",
+			"ExportBundleChunkIds": [
+				"a835619b73eeaa1600000001"
+			]
+		},
+		{
+			"Name": "/Niagara/VectorFields/Assets/TilingCurl64",
+			"ExportBundleChunkIds": [
+				"7bf38c99711fc2ab00000001"
+			]
 		},
 		{
 			"Name": "/Paper2D/DefaultPaperTerrainMaterial",
