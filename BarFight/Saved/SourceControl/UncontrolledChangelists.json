@@ -5,7 +5,26 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/BarFightGame/BarFight/Content/UI/Main.uasset"
+				"C:/Barfight Game/BarFightGame/BarFight/Content/__ExternalActors__/Maps/Pub/6/C7/I3NE8HG11SJZVG3DK00Z91.uasset",
+				"C:/Barfight Game/BarFightGame/BarFight/Content/__ExternalActors__/Maps/Pub/0/XK/0262XQGORFUJH85QOYLXZ7.uasset",
+				"C:/Barfight Game/BarFightGame/BarFight/Content/__ExternalActors__/Maps/Pub/3/5V/NMZTB96TXXFGXX074Q9924.uasset",
+				"C:/Barfight Game/BarFightGame/BarFight/Content/__ExternalActors__/Maps/Pub/4/P4/S4WECR4KAYBDYHPIO78XPF.uasset",
+				"C:/Barfight Game/BarFightGame/BarFight/Content/__ExternalActors__/Maps/Pub/4/P7/8V6TGRW97TI0UN2THLN5YU.uasset",
+				"C:/Barfight Game/BarFightGame/BarFight/Content/__ExternalActors__/Maps/Pub/9/LL/NU0ON6JD0NL3I8RO435R31.uasset",
+				"C:/Barfight Game/BarFightGame/BarFight/Content/__ExternalActors__/Maps/Pub/A/DM/LZ2O0RWLQRJ8RRSUMKJCJH.uasset",
+				"C:/Barfight Game/BarFightGame/BarFight/Content/__ExternalActors__/Maps/Pub/B/KM/CO867SRVOIEORMSQID4UJR.uasset",
+				"C:/Barfight Game/BarFightGame/BarFight/Content/__ExternalActors__/Maps/Pub/C/QP/I2IF2G0TPLD4ZPFBDUTG87.uasset",
+				"C:/Barfight Game/BarFightGame/BarFight/Content/__ExternalActors__/Maps/Pub/C/VP/7LLB0U3YOKE7WIL38Q5N4U.uasset",
+				"C:/Barfight Game/BarFightGame/BarFight/Content/__ExternalActors__/Maps/Pub/D/CN/9M5AZ0YAMIS0T9Y0QZ4EXS.uasset",
+				"C:/Barfight Game/BarFightGame/BarFight/Content/__ExternalActors__/Maps/Pub/D/JD/JHSTSZWVV4WZBMAU7XETL8.uasset",
+				"C:/Barfight Game/BarFightGame/BarFight/Content/__ExternalActors__/Maps/Pub/E/VG/ENRJI6WD4M2COUKGW5Y3IS.uasset",
+				"C:/Barfight Game/BarFightGame/BarFight/Content/__ExternalActors__/Maps/Pub/3/U1/VID1Y69UFAD42IHCKI11FR.uasset",
+				"C:/Barfight Game/BarFightGame/BarFight/Content/CollectableSystem/CollectableBP.uasset",
+				"C:/Barfight Game/BarFightGame/BarFight/Content/AI/BP_EnemyAI.uasset",
+				"C:/Barfight Game/BarFightGame/BarFight/Content/BloodTest/NsorBlood.uasset",
+				"C:/Barfight Game/BarFightGame/BarFight/Content/BloodTest/blood_Mat.uasset",
+				"C:/Barfight Game/BarFightGame/BarFight/Content/StarterContent/Materials/M_Metal_Gold.uasset",
+				"C:/Barfight Game/BarFightGame/BarFight/Content/CollectableSystem/GoldSparkles.uasset"
 			]
 		}
 	]
