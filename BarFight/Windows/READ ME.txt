@@ -1,0 +1,12 @@
+controls:
+
+escape - close game
+
+WASD - move
+spacebar - jump
+e - pick up
+q - interact (beer)
+f - pee (hold)
+right click - throw (held) / poke
+
+p - clear drunk effect
