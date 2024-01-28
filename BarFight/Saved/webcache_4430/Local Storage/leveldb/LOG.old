@@ -1,3 +1,6 @@
-2024/01/27-17:04:32.840 32c0 Reusing MANIFEST C:/BarFightGame/BarFight/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2024/01/27-17:04:32.845 32c0 Recovering log #3
-2024/01/27-17:04:32.846 32c0 Reusing old log C:/BarFightGame/BarFight/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2024/01/27-17:28:23.460 3214 Reusing MANIFEST C:/BarFightGame/BarFight/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/01/27-17:28:23.463 3214 Recovering log #3
+2024/01/27-17:28:23.465 3214 Reusing old log C:/BarFightGame/BarFight/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2024/01/27-19:29:51.022 6c0 Level-0 table #5: started
+2024/01/27-19:29:51.029 6c0 Level-0 table #5: 14721 bytes OK
+2024/01/27-19:29:51.033 6c0 Delete type=0 #3
