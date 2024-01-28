@@ -5,41 +5,15 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< HEAD
-				"C:/BarFightGame/BarFight/Content/UI/Main.uasset",
-				"C:/BarFightGame/BarFight/Content/New_Piskel-1_png__1_.uasset",
-				"C:/BarFightGame/BarFight/Content/New_Piskel-1_png__2_.uasset",
-				"C:/BarFightGame/BarFight/Content/New_Piskel-1_png__3_.uasset",
-				"C:/BarFightGame/BarFight/Content/__ExternalActors__/Maps/Pub/C/QU/DYY2U0LYQQHGOQFBXCFG7Q.uasset",
-				"C:/BarFightGame/BarFight/Content/New_Piskel-1_png__4_.uasset",
-				"C:/BarFightGame/BarFight/Content/Maps/Pub.umap"
-=======
-				"C:/BarFightGame/BarFight/Content/__ExternalActors__/Maps/Pub/C/QP/I2IF2G0TPLD4ZPFBDUTG87.uasset",
-				"C:/BarFightGame/BarFight/Content/__ExternalActors__/Maps/Pub/E/0Q/01NEXHJJYIHZ6L793M3TBX.uasset",
-				"C:/BarFightGame/BarFight/Content/__ExternalActors__/Maps/Pub/5/12/RULL8890LL1JZDMNSD4UJQ.uasset",
-				"C:/BarFightGame/BarFight/Content/Blueprints/BP_EnemyAI.uasset",
-				"C:/BarFightGame/BarFight/Content/Blueprints/AP_EnemAI.uasset",
-				"C:/BarFightGame/BarFight/Content/__ExternalActors__/Maps/Pub/4/P7/8V6TGRW97TI0UN2THLN5YU.uasset",
-				"C:/BarFightGame/BarFight/Content/__ExternalActors__/Maps/Pub/E/VG/ENRJI6WD4M2COUKGW5Y3IS.uasset",
-				"C:/BarFightGame/BarFight/Content/__ExternalActors__/Maps/Pub/9/LL/NU0ON6JD0NL3I8RO435R31.uasset",
-				"C:/BarFightGame/BarFight/Content/__ExternalActors__/Maps/Pub/4/P4/S4WECR4KAYBDYHPIO78XPF.uasset",
-				"C:/BarFightGame/BarFight/Content/__ExternalActors__/Maps/Pub/0/XK/0262XQGORFUJH85QOYLXZ7.uasset",
-				"C:/BarFightGame/BarFight/Content/__ExternalActors__/Maps/Pub/B/67/8SOB290SQP27TFHALFG28B.uasset",
-				"C:/BarFightGame/BarFight/Content/__ExternalActors__/Maps/Pub/D/JD/JHSTSZWVV4WZBMAU7XETL8.uasset",
-				"C:/BarFightGame/BarFight/Content/__ExternalActors__/Maps/Pub/B/KM/CO867SRVOIEORMSQID4UJR.uasset",
-				"C:/BarFightGame/BarFight/Content/__ExternalActors__/Maps/Pub/D/CN/9M5AZ0YAMIS0T9Y0QZ4EXS.uasset",
-				"C:/BarFightGame/BarFight/Content/__ExternalActors__/Maps/Pub/A/DM/LZ2O0RWLQRJ8RRSUMKJCJH.uasset",
-				"C:/BarFightGame/BarFight/Content/__ExternalActors__/Maps/Pub/C/VP/7LLB0U3YOKE7WIL38Q5N4U.uasset",
-				"C:/BarFightGame/BarFight/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
-				"C:/BarFightGame/BarFight/Content/DrunkAnims/Getting_Up.uasset",
-				"C:/BarFightGame/BarFight/Content/DrunkAnims/Getting_Up_Anim.uasset",
-				"C:/BarFightGame/BarFight/Content/DrunkAnims/Getting_Up_Anim_Montage.uasset",
-				"C:/BarFightGame/BarFight/Content/DrunkAnims/Getting_Up_PhysicsAsset.uasset",
-				"C:/Barfight Game/BarFightGame/BarFight/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
-				"C:/Barfight Game/BarFightGame/BarFight/Content/__ExternalActors__/Maps/Pub/5/GR/AO8AH88BYA7S56TCESKPUN.uasset",
-				"C:/Barfight Game/BarFightGame/BarFight/Content/__ExternalActors__/Maps/Pub/3/5V/NMZTB96TXXFGXX074Q9924.uasset",
-				"C:/Barfight Game/BarFightGame/BarFight/Content/CollectableSystem/CollectableBP.uasset"
->>>>>>> e072585260bfdc2b512bac4674e0ec5bd11dbcd5
+				"G:/UE_5.2/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
+				"G:/BarFightGame/BarFight/Content/__ExternalActors__/Maps/Pub/5/12/RULL8890LL1JZDMNSD4UJQ.uasset",
+				"G:/BarFightGame/BarFight/Content/__ExternalActors__/Maps/Pub/5/GR/AO8AH88BYA7S56TCESKPUN.uasset",
+				"G:/BarFightGame/BarFight/Content/__ExternalActors__/Maps/Pub/E/0Q/01NEXHJJYIHZ6L793M3TBX.uasset",
+				"G:/BarFightGame/BarFight/Content/Maps/Pub.umap",
+				"G:/BarFightGame/BarFight/Content/UI/MainMenuMap_BuiltData.uasset",
+				"G:/BarFightGame/BarFight/Content/UI/MainMenuMap.umap",
+				"G:/BarFightGame/BarFight/Content/UI/barfightlogo__2_.uasset",
+				"G:/BarFightGame/BarFight/Content/Blueprints/WalkBlendSpace1D.uasset"
 			]
 		}
 	]
