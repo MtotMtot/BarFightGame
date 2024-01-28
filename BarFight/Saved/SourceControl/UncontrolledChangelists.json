@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/BarFightGame/BarFight/Content/UI/W_PauseMenu.uasset",
+				"C:/BarFightGame/BarFight/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/BarFightGame/BarFight/Content/Maps/Pub.umap",
+				"C:/BarFightGame/BarFight/Content/UI/Main.uasset",
 				"C:/Barfight Game/BarFightGame/BarFight/Content/__ExternalActors__/Maps/Pub/6/C7/I3NE8HG11SJZVG3DK00Z91.uasset",
 				"C:/Barfight Game/BarFightGame/BarFight/Content/__ExternalActors__/Maps/Pub/0/XK/0262XQGORFUJH85QOYLXZ7.uasset",
 				"C:/Barfight Game/BarFightGame/BarFight/Content/__ExternalActors__/Maps/Pub/3/5V/NMZTB96TXXFGXX074Q9924.uasset",
